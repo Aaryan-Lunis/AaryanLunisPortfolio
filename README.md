@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Aaryan Lunis — Portfolio
 
-# Run and deploy your AI Studio app
+Personal portfolio showcasing my work in machine learning, AI systems, and full-stack development.
 
-This contains everything you need to run your app locally.
+**Live Site:** https://aaryan-lunis.github.io/AaryanLunisPortfolio/
 
-View your app in AI Studio: https://ai.studio/apps/3b007135-00fd-4d04-898f-3d22fbcb46db
+## Projects
+- **AlphaCross** — AI-powered trading signal analyzer for NSE 500 stocks
+- **EmoSound** — Transformer-based emotion detection with Spotify music recommendations
+- **AEGIS** — Autonomous migration agent for headless commerce operations
+- **Box Office Revenue Prediction** — Ensemble ML pipeline, published at DACS 2025
+- **Habit & Mood Tracker** — Wellness journaling app with mood correlation engine
 
-## Run Locally
+## Tech
+Python · React · TypeScript · Scikit-Learn · XGBoost · FastAPI · Streamlit · Tailwind CSS
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Contact
+lunisaaryan@gmail.com · [LinkedIn](https://linkedin.com/in/aaryan-lunis)
