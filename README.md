@@ -7,7 +7,6 @@ Personal portfolio showcasing my work in machine learning, AI systems, and full-
 ## Projects
 - **AlphaCross** — AI-powered trading signal analyzer for NSE 500 stocks
 - **EmoSound** — Transformer-based emotion detection with Spotify music recommendations
-- **AEGIS** — Autonomous migration agent for headless commerce operations
 - **Box Office Revenue Prediction** — Ensemble ML pipeline, published at DACS 2025
 - **Habit & Mood Tracker** — Wellness journaling app with mood correlation engine
 
