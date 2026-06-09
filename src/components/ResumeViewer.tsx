@@ -7,6 +7,7 @@ interface ResumeViewerProps {
 }
 
 export default function ResumeViewer({ isOpen, onClose }: ResumeViewerProps) {
+  const resumeUrl = "/AaryanLunisPortfolio/AaryanLunis____resume.pdf";
   return (
     <AnimatePresence>
       {isOpen && (
@@ -37,10 +38,10 @@ export default function ResumeViewer({ isOpen, onClose }: ResumeViewerProps) {
               </div>
               <div className="flex items-center gap-3">
                 <a
-                  href={new URL('AaryanLunis____resume.pdf', import.meta.url).href}
-                  download="AaryanLunis_Resume.pdf"
+                   href={resumeUrl}
+                   download="AaryanLunis_Resume.pdf"
                   className="flex items-center gap-2 px-4 py-2 rounded-lg text-[11px] tracking-wide bg-[#C8A96E] text-[#0C0C0A] font-medium hover:bg-[#D4B97E] transition-colors"
-                >
+            >
                   <Download className="w-3.5 h-3.5" />
                   Download PDF
                 </a>
