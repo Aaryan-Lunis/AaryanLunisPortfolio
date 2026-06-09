@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Portfolio",
+  "description": "A cinematic and interactive personal portfolio showcasing the journey, projects, and skills of a Computer Engineering and AI student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
